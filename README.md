@@ -1,6 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats-gamma-indol-65.vercel.app/api?username=Hardw01f&theme=dracula&show_icons=true)
-![Top Languages Card ](https://github-readme-stats-gamma-indol-65.vercel.app/api/top-langs/?username=Hardw01f&hide=python,html&theme=dracula)
-[![ReadMe Card](https://github-readme-stats-gamma-indol-65.vercel.app/api/pin/?username=hardw01f&repo=Vulnerability-goapp&theme=dracula)](https://github.com/Hardw01f/Vulnerability-goapp)
+![Top Languages Card](https://github-readme-stats-gamma-indol-65.vercel.app/api/top-langs/?username=Hardw01f&hide=python,html&theme=dracula)
+[![ReadMe Card](https://github-readme-stats-gamma-indol-65.vercel.app/api/pin/?username=Hardw01f&repo=Vulnerability-goapp&theme=dracula)](https://github.com/Hardw01f/Vulnerability-goapp)
+
 <!--
 **Hardw01f/Hardw01f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
